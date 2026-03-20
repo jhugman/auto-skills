@@ -1,0 +1,10 @@
+{
+  "name": "auto",
+  "description": "Autonomous loop skills: generic loop primitive, metric optimization (research), and code refactoring",
+  "version": "0.1.0",
+  "author": {
+    "name": "James Hugman"
+  },
+  "license": "MIT",
+  "keywords": ["skills", "loops", "automation", "research", "refactoring", "optimization"]
+}
